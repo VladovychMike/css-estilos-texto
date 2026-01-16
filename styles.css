@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
 h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Calligraffitti', cursive;
     }
 
     p {
@@ -8,6 +9,4 @@ h1 {
          font-weight: lighter;
     }
 
- 
 
-    
