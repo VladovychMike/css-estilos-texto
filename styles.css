@@ -1,12 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+{
+     font-family: Arial, sans-serif;
+}
 h1 {
-    font-family: 'Calligraffitti', cursive;
-    }
+    color: #2c3e50;
+    text-align: center;
+}
+h2 {
+    color: #34495e;
+    text-align: center;
+}
+p {
+    color: #7f8c8d;
+    font-size: 16px;
+}
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
 
-    p {
-         font-size: larger;
-         font-style: italic;
-         font-weight: lighter;
-    }
-
-
+main {
+    background-image: url(img/hector-j-rivas-1FxMET2U5dU-unsplash.jpg);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
