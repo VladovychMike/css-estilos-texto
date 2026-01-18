@@ -1,6 +1,5 @@
-{}
-     font-family: Arial, sans-serif;
-}
+
+
 h1 {
     color: #2c3e50;
     text-align: center;
@@ -17,11 +16,15 @@ a {
     color: #2980b9;
     text-decoration: none;
 }
-main {
-    background-image: url(../img/hector-j-rivas-1FxMET2U5dU-unsplash.jpg);
+main 
+    {
+    background-size: cover;
     margin: 0 auto;
     padding: 20px;
-    border-radius: 8px;
+}
+body {
+    background-image: url(../img/hector-j-rivas-1FxMET2U5dU-unsplash.jpg);
+  
 }
 header, footer {
     background-color: rgba(43, 43, 150, 0.5);
